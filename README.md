@@ -1,2 +1,2 @@
 # project-Data-scrince-IBM
-Coursera_Capstone. 
+applied-data-science-capstone
